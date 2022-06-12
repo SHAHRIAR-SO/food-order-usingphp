@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="../css/manage-admin.css">
+    <link rel="stylesheet" href="../css/admin.css">
     <title>Food Order Website-Home Page</title>
 </head>
 
