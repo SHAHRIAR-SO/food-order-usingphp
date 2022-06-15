@@ -1,23 +1,10 @@
 <?php
 include('partial/menu.php');
 ?>
-
-
-    <!---main content section start--->
-    <div class="main-content">
-       
-        <div class="wrapper">
-        <h1> <strong>
-        Manage Admin
-    </strong>
-        </h1>
-        <br>
-        <br>
-<!--button to add admin-->
-<a href="add-admin.php" class="btn-primary">Add Admin</a>
-<br>
-<br>
-<br>
+<div class="main-content">
+  <div class="wrapper">
+  <h1>manage order</h1>
+ <br><br>
 <!---make table--->
         <div class="tbl-full">
         <table class="table" >
@@ -69,15 +56,8 @@ include('partial/menu.php');
           </tr>
         </table>
         </div>
-       
-     <div class="clearfix"></div>
-        </div>
-    </div>
-    <!---main content section ends--->
-
-    <?php 
-    include('partial/footer.php')
-    ?>
-</body>
-
-</html>
+  </div>
+</div>
+<?php
+include('partial/footer.php')
+?>
